@@ -44,7 +44,7 @@ list(range(1, 6, 1)) # O mesmo que usar dois argumentos
 >>> list(range(1, 6, 2)) # Usa cada segundo número
 [1, 3, 5]
 
- >>> list(range(1, 6, 3)) # Usa cada terceiro número 
+>>> list(range(1, 6, 3)) # Usa cada terceiro número 
 [1, 4]
 
 
